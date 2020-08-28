@@ -3,6 +3,9 @@ Frontal-103, A large-scale vehicle image dataset for fine-grained vehicle catego
 
 # Overview
 
+![Demo of some random samples](https://github.com/vision-insight/Frontal-103/blob/master/random%20samples.png)</div>
+
+
 The Frontal-103 dataset is presented in our T-ITS paper (which is still under review): Lei Lu, Ping Wang, Hua Huang. **A Large-Scale Frontal Vehicle Image Dataset for Fine-Grained Vehicle Categorization.**
 
 Fine-grained vehicle categorization has evolved into a significant subject of study due to its importance in the Intelligent Transportation System. A highly accurate and real-time vehicle categorization system will help to support many applications not only in the security aspect but also many walks of life. Facing the growing importance of this study, we present an image dataset named Frontal-103 to promote the development of the vision-based research on the vehicle, and
