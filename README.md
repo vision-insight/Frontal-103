@@ -29,7 +29,7 @@ Lei Lu, Ping Wang, Hua Huang. **A Large-Scale Frontal Vehicle Image Dataset for 
 
 - Dataset download link:  https://pan.baidu.com/s/1iOhPWJuRiOtunlO3GMkmmQ with extraction code: b821
 - Download all files with name " Frontal-103_.*".
-- Use this password to unzip: 
+- Use this password to unzip: xjtu-bit-frontal-103
 
 
 # Contact
